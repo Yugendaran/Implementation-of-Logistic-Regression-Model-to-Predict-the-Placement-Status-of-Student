@@ -90,7 +90,31 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![image](https://user-images.githubusercontent.com/128135616/235350737-27e7237c-ceaa-4685-9169-49dd7ba915d0.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235350804-fe6113f5-386f-4a4e-b26c-21d651683564.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352431-95f73d56-0387-478f-95cf-f1ef920ecb8e.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352465-5854b6cb-1d08-4e90-9f6b-c09aad85f41f.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352502-661f2d2a-64c4-455d-9c2b-6327263b564a.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352550-facc1d8f-e413-44a9-89c6-06468f937ac9.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352615-9fdec3b0-98a4-4740-95e0-d84af60e3e6f.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352648-581c0a83-fc2d-4460-b918-cba3db9afcdd.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352703-090bcdfe-220b-494e-805b-edc98a591359.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352827-4911063c-5a2c-4c1a-8ceb-7b1b24c28b59.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352893-a4d6572f-7189-47bc-b869-7acc522b12c1.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352940-6bb927f0-8100-425d-80e3-351eaac46717.png)
+
+![image](https://user-images.githubusercontent.com/128135616/235352965-e8bcbd0d-390a-44c3-bafd-1ee438c30f0a.png)
 
 
 ## Result:
